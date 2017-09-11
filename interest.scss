@@ -30,7 +30,6 @@ $enable-print-styles:       true !default;
 
 $body-bg: #ECECEA;
 
-
 $body-color: #292b2c;
 $body-color-inverse: invert($body-color) !default;
 $link-color: #00b0eb;
@@ -52,7 +51,6 @@ $display3-size: 4.5 * $font-size-base;
 $display4-size: 3.5 * $font-size-base;
 
 $border-radius: .25rem;
-
 
 
 $container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 960px);

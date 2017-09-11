@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Open Sans");
+@import url("https://fonts.googleapis.com/css?family=arvo");
+@import url("https://fonts.googleapis.com/css?family=times new rome");
 /*!
 * Bootstrap 4.0.0-beta (https://getbootstrap.com)
 * Copyright 2011-2017 The Bootstrap Authors
@@ -666,11 +668,11 @@ fieldset[disabled] a.btn {
 
 .btn-link {
   font-weight: normal;
-  color: #00b0eb;
+  color: #2200CC;
   background-color: transparent;
   border-radius: 0; }
   .btn-link:hover {
-    color: #00779f;
+    color: #150080;
     text-decoration: underline;
     background-color: transparent;
     border-color: transparent; }
@@ -2805,11 +2807,11 @@ button.list-group-item-dark {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #00b0eb;
+  color: #2200CC;
   background-color: #fff;
   border: 1px solid #ddd; }
   .page-link:focus, .page-link:hover {
-    color: #00779f;
+    color: #150080;
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #ddd; }
@@ -3146,12 +3148,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #00b0eb;
+  color: #2200CC;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #00779f;
+    color: #150080;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
